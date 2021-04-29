@@ -1,0 +1,6 @@
+# Robots.txt file from https://fy104496.github.io/
+# All robots will spider the domain
+
+User-agent: *
+Allow: /
+Disallow:
