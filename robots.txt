@@ -4,4 +4,4 @@
 User-agent: *
 Allow: /
 Disallow:
-Sitemap: sitemap.xml
+Sitemap: https://fy104496.github.io/sitemap.xml
