@@ -1,7 +1,7 @@
-# Robots.txt file from https://fy104496.github.io/
+# Robots.txt file from https://sichuan.vercel.app/
 # All robots will spider the domain
 
 User-agent: *
 Allow: /
 Disallow:
-Sitemap: https://fy104496.github.io/sitemap.xml
+Sitemap: https://sichuan.vercel.app/sitemap.xml
